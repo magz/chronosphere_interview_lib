@@ -1,3 +1,3 @@
-module github.com/chronosphereio/interviews-alerts-execution-engine/golang
+module github.com/magz/chronosphere_interview_lib/golang/src/alerts
 
 go 1.13
